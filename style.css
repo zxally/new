@@ -1,0 +1,36 @@
+body {
+    background: #ccc;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    height: 100px;
+}
+.card {
+    width: 29%;
+    background: #fff;
+    padding: 15px;
+    border-radius: 9px;
+button {
+    padding: 10px;
+    border: none;
+    background: rgb(38, 38, 61);
+    color: rgb(255, 255, 255);
+    border-radius: 9px;
+}
+.wow {
+    background: orange;
+}
+.tea {
+    background: green;
+}
+.orange {
+    background: purple;
+}
+.card:hover {
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+
+};
+}
