@@ -1,11 +1,11 @@
 # Git lesson
 
-git init
+>git init
 
-git status
+>git status
 
-git commit -m"new"
+>git commit -m"new"
 
-git add .
+>git add .
 
-git push / pull
+>git push / pull
